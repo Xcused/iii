@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iii</string>
+    <string name="main_activity_title">testto</string>
+    
+    <!--  popmenu  -->
+    <string name="deletedata">Delete Data</string>
+    <string name="editdata">Edit Data</string>
+
+
+</resources>
